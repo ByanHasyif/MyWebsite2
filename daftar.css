@@ -1,0 +1,135 @@
+/* daftar */
+.logo-daftar {
+    height: 18%;
+    width: 8%;
+    position: absolute;
+    left: 50px;
+    top: -9px;
+}
+
+.h5-daftar {
+    font-size: 40px;
+    position: absolute;
+    left: 200px;
+    top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5A3D01;
+}
+
+.konten-daftar {
+    height: 85vh;
+    background-color: #4E6C50;
+}
+
+.poster-daftar {
+    border-radius: 10px;
+    position: absolute;
+    top: 225px;
+    left: 180px;
+}
+
+.part-daftar {
+    background-color: #FFFBE2;
+    height: 12.6cm;
+    width: 11cm;
+    position: absolute;
+    top: 225px;
+    right: 250px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h5-daftar2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #AA8B56;
+    position: absolute;
+    top: 30px;
+    font-size: .8cm;
+    left: 40px;
+}
+
+.tombol-daftar {
+    width: 10cm;
+    position: absolute;
+    left: 17px;
+    height: 1cm;
+    border-radius: 0%;
+    background-color: #AA8B56;
+    top: 175px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .5cm;
+    color: #FFFBE2;
+    border: #AA8B56;
+}
+
+.atau-daftar {
+    color: #AA8B56;
+    font-size: .4cm;
+    position: absolute;
+    top: 250px;
+    left: 195px;
+}
+
+.garis-daftar {
+    width: 140px;
+    color: #aa8b5697;
+    position: absolute;
+    left: 20px;
+    top: 260px;
+}
+
+.garis2-daftar {
+    width: 140px;
+    color: #aa8b5697;
+    position: absolute;
+    right: 20px;
+    top: 260px;
+}
+
+.google-daftar {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 300px;
+    left: 30px;
+}
+
+.bordergoogle-daftar {
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 295px;
+    left: 25px;
+}
+
+.fb-daftar {
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 295px;
+    right: 30px;
+}
+
+.container-kalimat {
+    text-align: center;
+    color: #AA8B56;
+    font-size: .3cm;
+    position: absolute;
+    top: 365px;
+    left: 80px;
+}
+
+.Sudah-punya-akun {
+    color: #AA8B56;
+    position: absolute;
+    top: 430px;
+    left: 110px;
+}
+
+.login-sudah {
+    color: #B28B47;
+    position: absolute;
+    top: 430px;
+    left: 260px;
+}
+/* daftar selesai */

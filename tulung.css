@@ -1,0 +1,346 @@
+*, 
+html {
+    margin: 0;
+    padding: 0%;
+}
+
+/* login */
+.atas-login {
+    height: 15vh;
+    background-color: white;
+}
+
+.logo-login {
+    height: 18%;
+    width: 8%;
+    position: absolute;
+    left: 50px;
+    top: -9px;
+}
+
+.h5-login {
+    font-size: 40px;
+    position: absolute;
+    left: 200px;
+    top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5A3D01;
+}
+
+.konten-login {
+    height: 85vh;
+    background-color: #4E6C50;
+}
+
+.poster-login {
+    border-radius: 10px;
+    position: absolute;
+    top: 225px;
+    left: 180px;
+}
+
+.part-login {
+    background-color: #FFFBE2;
+    height: 12.6cm;
+    width: 11cm;
+    position: absolute;
+    top: 225px;
+    right: 250px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h5-login2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #AA8B56;
+    position: absolute;
+    top: 30px;
+    font-size: .8cm;
+    left: 40px;
+}
+
+.Masukkan-email {
+    border-color: #AA8B56;
+    border-radius: 5px;
+    width: 10cm;
+    height: 1cm;
+    position: absolute;
+    left: 17px;
+    top: 60px;
+    background-color: #FFFBE2;
+}
+
+.masukkan-password {
+    border-color: #AA8B56;
+    border-radius: 5px;
+    width: 10cm;
+    height: 1cm;
+    position: absolute;
+    left: 17px;
+    top: 120px;
+    background-color: #FFFBE2;
+}
+
+.konfirmasi-password {
+    border-color: #AA8B56;
+    border-radius: 5px;
+    width: 10cm;
+    height: 1cm;
+    position: absolute;
+    left: 17px;
+    top: 180px;
+    background-color: #FFFBE2;
+}
+
+::placeholder{
+    margin: 10px;
+    font-size: 14px;
+    font-family: 'Verdana', sans-serif;    
+}
+
+.tombol {
+    width: 10cm;
+    position: absolute;
+    left: 17px;
+    height: 1cm;
+    border-radius: 0%;
+    background-color: #AA8B56;
+    top: 225px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .5cm;
+    color: #FFFBE2;
+    border: #AA8B56;
+}
+
+.lupa-password {
+    color: #AA8B56;
+    text-decoration: none;
+    font-size: .4cm;
+    position: absolute;
+    top: 285px;
+    left:20px;
+}
+
+.bordergoogle {
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 380px;
+    left: 25px;
+}
+
+.atau {
+    color: #AA8B56;
+    font-size: .4cm;
+    position: absolute;
+    top: 330px;
+    left: 195px;
+}
+
+.google {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 384px;
+    left: 30px;
+}
+
+.fb {
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 380px;
+    right: 30px;
+}
+
+.garis {
+    width: 140px;
+    color: #aa8b5697;
+    position: absolute;
+    left: 20px;
+    top: 337px;
+}
+
+.garis2 {
+    width: 140px;
+    color: #aa8b5697;
+    position: absolute;
+    right: 20px;
+    top: 337px;
+}
+/* login selesai */
+
+/* daftar */
+.logo-daftar {
+    width: 7%;
+    display: flex;
+    margin-left: 15px;
+}
+
+.h5-daftar {
+    font-size: 40px;
+    display: flex;
+    margin-left: 130px;
+    margin-top: -70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5A3D01;
+}
+
+.konten-daftar {
+    height: 85vh;
+    background-color: #4E6C50;
+}
+
+.poster-daftar {
+    width: 30%;
+    height: 75%;
+    display: flex;
+    margin-left: 150px;
+    padding-top: 70px;
+}
+
+.part-daftar {
+    background-color: #FFFBE2;
+    height: 12.42cm;
+    width: 11cm;
+    position: absolute;
+    margin-top: -435px;
+    margin-left: 750px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h5-daftar2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #AA8B56;
+    position: absolute;
+    top: 10px;
+    font-size: .8cm;
+    left: 40px;
+}
+
+.tombol-daftar {
+    width: 10cm;
+    position: absolute;
+    left: 18.3px;
+    height: 1cm;
+    border-radius: 0%;
+    background-color: #AA8B56;
+    top: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .5cm;
+    color: #FFFBE2;
+    border: #AA8B56;
+}
+
+.atau-daftar {
+    color: #AA8B56;
+    font-size: .4cm;
+    position: absolute;
+    top: 290px;
+    left: 195px;
+}
+
+.garis-daftar {
+    width: 140px;
+    color: #aa8b5697;
+    position: absolute;
+    left: 20px;
+    top: 300px;
+}
+
+.garis2-daftar {
+    width: 140px;
+    color: #aa8b5697;
+    position: absolute;
+    right: 20px;
+    top: 300px;
+}
+
+.google-daftar {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 330px;
+    left: 30px;
+}
+
+.bordergoogle-daftar {
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 325px;
+    left: 25px;
+}
+
+.fb-daftar {
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 325px;
+    right: 30px;
+}
+
+.container-kalimat {
+    text-align: center;
+    color: #AA8B56;
+    font-size: .3cm;
+    position: absolute;
+    top: 380px;
+    left: 80px;
+}
+
+.Sudah-punya-akun {
+    color: #AA8B56;
+    position: absolute;
+    top: 430px;
+    left: 110px;
+}
+
+.login-sudah {
+    color: #B28B47;
+    position: absolute;
+    top: 430px;
+    left: 260px;
+}
+/* daftar selesai */
+
+/* upload */
+.container-upload {
+    background-color: #4E6C50;
+    height: 100vh;
+}
+
+.navbar {
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;  
+}
+
+.navbar img {
+    margin-left: 10px;
+}
+
+.navbar img {
+    width: 70%;
+    margin-top: 20px;
+    display: flex;
+}
+
+.logo-navbar {
+    display: flex;
+    padding: 180px;
+}
+
+.container-konten {
+    width: 90vh;
+}
+
+.proses-upload {
+    
+}
+/* upload selesai */
